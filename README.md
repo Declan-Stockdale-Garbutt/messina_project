@@ -10,4 +10,7 @@ Various limitations were discovered when trying to scrape the instagram channel 
 
 
 ## Work in progress
-
+- Change date on posts that include x days ago to a proper date
+- Clean text
+- EDA on text data
+- Create visuals
